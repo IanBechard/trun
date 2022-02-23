@@ -10,4 +10,4 @@ Open trun.t
 
 Run
 
-Enjoy
+Enjoy (wasd and arrow keys to play)
